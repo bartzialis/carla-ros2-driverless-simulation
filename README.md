@@ -103,15 +103,15 @@ The following images show examples of the simulation environment used for testin
 
 ## Driverless Track Simulation
 
-![CARLA Simulation](media/images/carla_sim_1.png)
+![CARLA Simulation](media/images/Skidpad_sim_1.png)
 
 ## Cone-Based Track Layout
 
-![Cone Layout](media/images/carla_sim_2.png)
+![Cone Layout](media/images/Skidpad_sim_2.png)
 
 ## Simulation Environment
 
-![Simulation Track](media/images/carla_sim_3.png)
+![Simulation Track](media/images/Skidpad_sim_3.png)
 
 The vehicle navigates through a cone-defined racing environment similar to those used in autonomous racing competitions.
 
